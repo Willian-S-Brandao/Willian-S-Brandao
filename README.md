@@ -48,16 +48,15 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img
-    align="left"
-    alt="C#"
+<img 
+    align="left" 
+    alt="C#" 
     title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc5f220c-f60a-4b34-811b-4585b4718282" />
-
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C#/C#-original.svg"
 />
 
 <br/>
