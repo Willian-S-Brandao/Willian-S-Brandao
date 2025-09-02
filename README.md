@@ -43,8 +43,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 <br/> 
 <br/> 
 <br/> 
-<br/> 
-br/> 
+<br/>
 <br/>
 <br/> 
 <br/> 
