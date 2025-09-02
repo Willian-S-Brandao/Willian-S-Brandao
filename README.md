@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Willian-S-Brandao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/linkedln/Willian-S-Brandao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Willian-S-Brandao?tab=followers">
