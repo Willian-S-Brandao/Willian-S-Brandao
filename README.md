@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=linkedln)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 </p>
 
