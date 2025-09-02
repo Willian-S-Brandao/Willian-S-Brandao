@@ -1,22 +1,43 @@
-## 👨🏻‍💻 **Caio André Porto de Oliveira**
+# 👩🏻‍💻 Willian Brandão
 
-```Automation & AI at Itaú Unibanco | Ambassador @Alura```
+**`Desenvolvedor FullStack`**
 
-Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
+Tenho 22 anos, sou de Tupaciguara/MG e atualmente curso Análise e Desenvolvimento de Sistemas na Uniube.
+Sou apaixonado por tecnologia e estou em constante aprendizado na área de desenvolvimento, registrando minha evolução e compartilhando projetos aqui no GitHub.
 
-Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
+<p align="left">
 
-Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/willian-brand%C3%A3o-6506662a0/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/willian_s.brandao/)
 
-### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
+</p>
 
-### Tech content creator
-###### +380k followers across platforms
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
-<a href="https://www.tiktok.com/@caio_andres"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
+---
+
+### 🤖 Linguagens e Tecnologias
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs)](https://skillicons.dev)
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Willian-S-Brandao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ### Visit my Dev Community
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
