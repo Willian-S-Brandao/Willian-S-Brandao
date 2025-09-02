@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Willian Brandão
 
-**`Desenvolvedor FullStack`**
+**`Fullstack Developer`**
 
-Tenho 22 anos, sou de Tupaciguara/MG e atualmente curso Análise e Desenvolvimento de Sistemas na Uniube.
-Sou apaixonado por tecnologia e estou em constante aprendizado na área de desenvolvimento, registrando minha evolução e compartilhando projetos aqui no GitHub.
+I'm 22 years old, from Tupaciguara, Minas Gerais, and currently studying Systems Analysis and Development at Uniube.
+I'm passionate about technology and constantly learning about development, documenting my progress and sharing projects here on GitHub.
 
 <p align="left">
 
@@ -14,12 +14,12 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs)](https://skillicons.dev)
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -48,7 +48,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 <br/> 
 <br/> 
 
-### 🌐 Idiomas
+### 🌐 Language
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br> 
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediate English
