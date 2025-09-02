@@ -21,4 +21,20 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 
 ### 📊 Estatísticas
 
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Willian-S-Brandao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> </p> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> ### Languages ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br> ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Willian-S-Brandao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
