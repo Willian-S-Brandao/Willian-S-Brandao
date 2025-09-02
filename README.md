@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,csharp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c#,mysql)](https://skillicons.dev)
 
 <br/>
 <br/>
