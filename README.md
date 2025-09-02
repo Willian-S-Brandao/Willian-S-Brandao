@@ -28,8 +28,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c#,mysql)](https://skillicons.dev)
 
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
