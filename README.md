@@ -38,6 +38,8 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
   />
 
 </p>
+<br/>
+<br/>
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
