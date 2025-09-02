@@ -6,20 +6,9 @@ Tenho 22 anos, sou de Tupaciguara/MG e atualmente curso Análise e Desenvolvimen
 Sou apaixonado por tecnologia e estou em constante aprendizado na área de desenvolvimento, registrando minha evolução e compartilhando projetos aqui no GitHub.
 
 <p align="left">
-    <a href="https://github.com/Willian-S-Brandao?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/linkedin/Willian-S-Brandao?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Willian-S-Brandao?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Willian-S-Brandao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/willian-brand%C3%A3o-6506662a0/)
+
 </p>
 
 ---
