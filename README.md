@@ -8,6 +8,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de desen
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/willian-brand%C3%A3o-6506662a0/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/willian_s.brandao/)
 
 </p>
 
