@@ -17,7 +17,7 @@ I'm passionate about technology and constantly learning about development, docum
 ### 🤖 Stacks
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs,java)](https://skillicons.dev)
 
 ### 📊 Statistics
 
