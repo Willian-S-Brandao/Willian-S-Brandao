@@ -34,7 +34,7 @@ I'm passionate about technology and constantly learning about development, docum
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=12" 
   />
 
 </p>
