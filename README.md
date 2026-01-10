@@ -1,54 +1,26 @@
-# 👩🏻‍💻 Willian Brandão
+## 👨🏻‍💻 **Willian da Silva Brandão**
 
-**`Fullstack Developer`**
+```Software Developer | Java & Backend```
 
-I'm 22 years old, from Tupaciguara, Minas Gerais, and currently studying Systems Analysis and Development at Uniube.
-I'm passionate about technology and constantly learning about development, documenting my progress and sharing projects here on GitHub.
+Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
-<p align="left">
+Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/willian-brand%C3%A3o-6506662a0/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/willian_s.brandao/)
+Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
 
-</p>
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
----
+### Tech content creator
+###### +400k followers across platforms
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
+<a href="https://www.tiktok.com/@caio_andres"><img src="https://static.vecteezy.com/system/resources/previews/019/874/380/large_2x/tiktok-apps-icon-free-png.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
 
-### 🤖 Stacks
-<br/>
+### Visit my Dev Community
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)](https://skillicons.dev)
-
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Willian-S-Brandao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-S-Brandao&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=12"
-  />
-
-</p>
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/>
-<br/>
-<br/> 
-<br/> 
-
-### 🌐 Language
-
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br> 
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediate English
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
