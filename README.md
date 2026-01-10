@@ -2,11 +2,10 @@
 
 ```Software Developer | Java & Backend```
 
-Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
+Systems Analysis and Development student at Uniube, focused on backend development with Java.
+Passionate about technology, continuous learning, and building practical projects while documenting my journey here on GitHub.
 
-Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
-
-Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
+Reach me out here: <a href="mailto:willianbrandaocr7@gmail.com" target="__blank">willianbrandaocr7@gmail.com</a>
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
