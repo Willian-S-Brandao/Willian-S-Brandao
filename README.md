@@ -8,7 +8,7 @@ Passionate about technology, continuous learning, and building practical project
 Reach me out here: <a href="mailto:willianbrandaocr7@gmail.com" target="__blank">willianbrandaocr7@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,java,angular,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,angular,mysql,git)](https://skillicons.dev)
 
 ### Visit my social media
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/willian_s.brandao/)
