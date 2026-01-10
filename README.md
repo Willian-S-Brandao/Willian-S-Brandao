@@ -8,13 +8,10 @@ Passionate about technology, continuous learning, and building practical project
 Reach me out here: <a href="mailto:willianbrandaocr7@gmail.com" target="__blank">willianbrandaocr7@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,angular,react,git)](https://skillicons.dev)
 
-### Tech content creator
-###### +400k followers across platforms
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
-<a href="https://www.tiktok.com/@caio_andres"><img src="https://static.vecteezy.com/system/resources/previews/019/874/380/large_2x/tiktok-apps-icon-free-png.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
+### Visit my social media
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/willian_s.brandao/)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/willian-brand%C3%A3o-6506662a0/)
 
 ### Visit Dev Community
